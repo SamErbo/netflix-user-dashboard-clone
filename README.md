@@ -18,7 +18,7 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 ### `API KEY`
 
-Please find your own API_KEY from [imdb.com](https://imdb.com/), and use that key at requests.js to retrieve images of the movies and others.
+Find your own API_KEY from [imdb.com](https://imdb.com/), and use that key at requests.js to retrieve images and other information of the Netflix movies.
 
 #### React
 
