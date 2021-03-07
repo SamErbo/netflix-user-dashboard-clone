@@ -16,6 +16,18 @@ Open a terminal in the Netflix clone directory, and write npm install or yarn st
 
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-### API KEY
+### `API KEY`
 
 Please find your own API_KEY from [imdb.com](https://imdb.com/), and use that key at requests.js to retrieve images of the movies and others.
+
+#### React
+
+To learn React, check out the [React documentation](https://reactjs.org/).
+
+#### Npm
+
+To learn NPM, check out the [npmjs.com ](https://npmjs.com)
+
+#### Yarn
+
+To learn Yarn, check out [Yarnpkg.com](https://yarnpkg.com)
