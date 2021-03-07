@@ -4,13 +4,11 @@ This project is done for educational purpose.
 
 ## Full clone of Netflix coming soon!
 
-I am developing the full clone of Netflix which includes the front page and firebase authentications. As I finish, I will replace this field with its github link and web link.
+I am developing the full clone of Netflix which includes the front page and firebase authentications. As I finish, I will replace this field with its github link and a web link.
 
-### How to use in local machine
+### How to use
 
-Clone or download into your machine.
-
-### How to start
+Clone or download into your machine
 
 Open a terminal in the Netflix clone directory, and write npm install or yarn start to install all necessary packages of the Netflix clone.
 
